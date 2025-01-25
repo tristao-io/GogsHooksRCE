@@ -1,0 +1,14 @@
+C:\Users\tristao\source\repos\GogsHooksRCE\GogsHooksRCE\bin\Debug\net8.0\GogsHooksRCE.exe
+C:\Users\tristao\source\repos\GogsHooksRCE\GogsHooksRCE\bin\Debug\net8.0\GogsHooksRCE.deps.json
+C:\Users\tristao\source\repos\GogsHooksRCE\GogsHooksRCE\bin\Debug\net8.0\GogsHooksRCE.runtimeconfig.json
+C:\Users\tristao\source\repos\GogsHooksRCE\GogsHooksRCE\bin\Debug\net8.0\GogsHooksRCE.dll
+C:\Users\tristao\source\repos\GogsHooksRCE\GogsHooksRCE\bin\Debug\net8.0\GogsHooksRCE.pdb
+C:\Users\tristao\source\repos\GogsHooksRCE\GogsHooksRCE\obj\Debug\net8.0\GogsHooksRCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tristao\source\repos\GogsHooksRCE\GogsHooksRCE\obj\Debug\net8.0\GogsHooksRCE.AssemblyInfoInputs.cache
+C:\Users\tristao\source\repos\GogsHooksRCE\GogsHooksRCE\obj\Debug\net8.0\GogsHooksRCE.AssemblyInfo.cs
+C:\Users\tristao\source\repos\GogsHooksRCE\GogsHooksRCE\obj\Debug\net8.0\GogsHooksRCE.csproj.CoreCompileInputs.cache
+C:\Users\tristao\source\repos\GogsHooksRCE\GogsHooksRCE\obj\Debug\net8.0\GogsHooksRCE.dll
+C:\Users\tristao\source\repos\GogsHooksRCE\GogsHooksRCE\obj\Debug\net8.0\refint\GogsHooksRCE.dll
+C:\Users\tristao\source\repos\GogsHooksRCE\GogsHooksRCE\obj\Debug\net8.0\GogsHooksRCE.pdb
+C:\Users\tristao\source\repos\GogsHooksRCE\GogsHooksRCE\obj\Debug\net8.0\GogsHooksRCE.genruntimeconfig.cache
+C:\Users\tristao\source\repos\GogsHooksRCE\GogsHooksRCE\obj\Debug\net8.0\ref\GogsHooksRCE.dll
